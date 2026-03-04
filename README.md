@@ -1,12 +1,12 @@
 <h1>
   </a> 
-  <span style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold;">PBQ Deploy & Inventory:</span> 
+  <span style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold;">PDQ Deploy & Inventory:</span> 
   <br/>
 </h1>
 
 
 <strong style="font-family: Arial, sans-serif; font-size: 18px; text-decoration: none; display: block; margin-bottom: 8px;">
-  PBQ DEPLOY
+  PDQ DEPLOY
 </strong>
 
 
